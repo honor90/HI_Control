@@ -1,0 +1,21 @@
+﻿  CRC16.cpp
+  Form_main.cpp
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Form_main.h(6823,37): warning C4244: =: преобразование "msp_WORD" в "unsigned char", возможна потеря данных
+  Log.cpp
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Log.cpp(31,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Log.cpp(37,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Log.cpp(39,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Log.cpp(26,17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Log.cpp(33,2): warning C4996: 'mkdir': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _mkdir. See online help for details.
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Log.cpp(35,2): warning C4996: 'getcwd': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getcwd. See online help for details.
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Log.cpp(123,17): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MB26_20.cpp
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\MB26_20.cpp(159,16): warning C4305: =: усечение из "int" в "msp_WORD"
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\MB26_20.cpp(159,10): warning C4309: =: усечение константного значения
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\MB26_20.cpp(172,16): warning C4305: =: усечение из "int" в "msp_WORD"
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\MB26_20.cpp(172,10): warning C4309: =: усечение константного значения
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  Создание кода...
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\MB26_20.cpp(294): warning C4715: MB26_20_Receive_Format_2: значение возвращается не при всех путях выполнения
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\MB26_20.cpp(339): warning C4715: MB26_20_Receive: значение возвращается не при всех путях выполнения
+  SES.vcxproj -> D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\Release\SES.exe

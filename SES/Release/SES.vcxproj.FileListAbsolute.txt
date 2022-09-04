@@ -1,0 +1,3 @@
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Release\SES.vcxprojAssemblyReference.cache
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Release\SES.Form_main.resources
+D:\Работа\НаукаСофт\win_CppCLR_SES_v2.4\SES\SES\Release\SES.vcxproj.GenerateResource.cache

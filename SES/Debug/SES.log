@@ -1,0 +1,4 @@
+﻿  Form_main.cpp
+d:\горшков а.а\сэс-7000нс\win_cppclr_ses_v2.3\ses\ses\Form_main.h(7002): warning C4244: =: преобразование "msp_WORD" в "unsigned char", возможна потеря данных
+  SES.vcxproj -> D:\Горшков А.А\СЭС-7000НС\win_CppCLR_SES_v2.3\SES\Debug\SES.exe
+  SES.vcxproj -> D:\Горшков А.А\СЭС-7000НС\win_CppCLR_SES_v2.3\SES\Debug\SES.pdb (Full PDB)
